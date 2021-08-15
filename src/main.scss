@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 51, 0);
+}
+.container {
+    width: 600px;
+    background-color: #F90;
+    height: 100%;
+    display: flex;
+
+    h1 {
+        color: blue;
+    }
+
+    .outra-div {
+        background-color: #fff;
+
+        h2 {
+            color: red;
+        }
+    }
+}
